@@ -1,0 +1,1 @@
+This project is the analysis of stock market data using Python.
